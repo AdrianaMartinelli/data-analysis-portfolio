@@ -39,5 +39,4 @@ jupyter notebook
 📬 Contato
 
 LinkedIn: www.linkedin.com/in/adriana-lima-da-silva-martinelli-187b9134
-
 Email: consultoriatisilvamartinelli@gmail.com
